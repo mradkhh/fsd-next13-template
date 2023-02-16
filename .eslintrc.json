@@ -1,0 +1,51 @@
+{
+  "extends": "next/core-web-vitals"
+}
+//{
+//  "extends": [
+//    "plugin:next/core-web-vitals",
+//    "plugin:@typescript-eslint/recommended",
+//    "plugin:react-hooks/recommended",
+//    "google"
+//  ],
+//  "rules": {
+//    "semi": ["error", "always"],
+//    "quotes": ["error", "double"]
+//  },
+//  "env": {
+//    "browser": true,
+//    "es6": true
+//  },
+//  "prettier": {
+//    "arrowParens": "always",
+//    "bracketSameLine": false,
+//    "bracketSpacing": false,
+//    "embeddedLanguageFormatting": "auto",
+//    "htmlWhitespaceSensitivity": "css",
+//    "insertPragma": false,
+//    "jsxSingleQuote": false,
+//    "printWidth": 80,
+//    "proseWrap": "preserve",
+//    "quoteProps": "as-needed",
+//    "requirePragma": false,
+//    "semi": true,
+//    "singleAttributePerLine": false,
+//    "singleQuote": true,
+//    "tabWidth": 2,
+//    "trailingComma": "es5",
+//    "useTabs": false,
+//    "vueIndentScriptAndStyle": false
+//  },
+//  "parser": "@typescript-eslint/parser",
+//  "parserOptions": {
+//    "ecmaFeatures": {
+//      "jsx": true
+//    },
+//    "ecmaVersion": 12,
+//    "sourceType": "module"
+//  },
+//  "plugins": [
+//    "react",
+//    "@typescript-eslint"
+//  ]
+//}
